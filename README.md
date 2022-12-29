@@ -27,4 +27,4 @@ Free TOOLS
 
 
  ___This Tools is Free___</br>
- [![Telegram](https://img.shields.io/badge/Telegram-RayeesAmir-deepgreen?style=flat-square&logo=whatsapp)](https://T.me/kingAmir_01)
+ [![Telegram](https://img.shields.io/badge/Telegram-RayeesAmir-deepgreen?style=flat-square&logo=Telegram)](https://T.me/kingAmir_01)
